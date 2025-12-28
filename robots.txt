@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# Разрешаем Дзену читать RSS
-Allow: /feed/dzen.xml
